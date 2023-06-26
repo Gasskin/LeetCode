@@ -5,3 +5,9 @@ E:\__Develop__C#\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.SuggestedBindingRed
 E:\__Develop__C#\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
 E:\__Develop__C#\LeetCode\LeetCode\obj\Debug\LeetCode.exe
 E:\__Develop__C#\LeetCode\LeetCode\obj\Debug\LeetCode.pdb
+E:\__Git\LeetCode\LeetCode\bin\Debug\LeetCode.exe
+E:\__Git\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
+E:\__Git\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.AssemblyReference.cache
+E:\__Git\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+E:\__Git\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+E:\__Git\LeetCode\LeetCode\obj\Debug\LeetCode.pdb

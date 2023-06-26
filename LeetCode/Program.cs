@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code1401();
-            var res = code.CheckOverlap(2, 8, 6, 5, 1, 10, 4);
+            var code = new Code2485();
+            var res = code.PivotInteger(8);
             Console.WriteLine(res);
         }
     }
