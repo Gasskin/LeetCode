@@ -39,9 +39,11 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Code1401.cs" />
-        <Compile Include="Code1608.cs" />
-        <Compile Include="Code2485.cs" />
+        <Compile Include="Code\Code13.cs" />
+        <Compile Include="Code\Code1401.cs" />
+        <Compile Include="Code\Code1608.cs" />
+        <Compile Include="Code\Code2485.cs" />
+        <Compile Include="Code\Code9.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
