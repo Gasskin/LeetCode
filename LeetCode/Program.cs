@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code14();
-            var res = code.LongestCommonPrefix(new [] { "flower", "flow", "flight" });
+            var code = new Code20();
+            var res = code.IsValid("([)]");
             Console.WriteLine(res);
         }
     }

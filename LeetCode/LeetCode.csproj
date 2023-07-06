@@ -43,6 +43,7 @@
         <Compile Include="Code\Code14.cs" />
         <Compile Include="Code\Code1401.cs" />
         <Compile Include="Code\Code1608.cs" />
+        <Compile Include="Code\Code20.cs" />
         <Compile Include="Code\Code2485.cs" />
         <Compile Include="Code\Code9.cs" />
         <Compile Include="Program.cs" />
