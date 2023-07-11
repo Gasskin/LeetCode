@@ -47,6 +47,7 @@
         <Compile Include="Code\Code21.cs" />
         <Compile Include="Code\Code2485.cs" />
         <Compile Include="Code\Code27.cs" />
+        <Compile Include="Code\Code35.cs" />
         <Compile Include="Code\Code9.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />

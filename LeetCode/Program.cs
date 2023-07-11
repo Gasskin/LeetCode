@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code27();
-            var res = code.RemoveElement(new[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2);
+            var code = new Code35();
+            var res = code.SearchInsert(new[] {1,3,5,6 }, 7);
             Console.WriteLine(res);
         }
     }
