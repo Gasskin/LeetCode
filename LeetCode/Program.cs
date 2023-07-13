@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code35();
-            var res = code.SearchInsert(new[] {1,3,5,6 }, 7);
+            var code = new Code69();
+            var res = code.MySqrt(4);
             Console.WriteLine(res);
         }
     }
