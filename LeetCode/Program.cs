@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code69();
-            var res = code.MySqrt(4);
+            var code = new Code70();
+            var res = code.ClimbStairs(45);
             Console.WriteLine(res);
         }
     }
