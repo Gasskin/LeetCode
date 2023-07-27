@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code70();
-            var res = code.ClimbStairs(45);
+            var code = new Code1160();
+            var res = code.CountCharacters(new []{"cat","bt","hat","tree"},"atach");
             Console.WriteLine(res);
         }
     }

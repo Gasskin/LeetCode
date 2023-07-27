@@ -39,6 +39,7 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Easy\Code1160.cs" />
         <Compile Include="Easy\Code13.cs" />
         <Compile Include="Easy\Code14.cs" />
         <Compile Include="Easy\Code1401.cs" />
