@@ -50,6 +50,7 @@
         <Compile Include="Easy\Code2485.cs" />
         <Compile Include="Easy\Code27.cs" />
         <Compile Include="Easy\Code35.cs" />
+        <Compile Include="Easy\Code575.cs" />
         <Compile Include="Easy\Code58.cs" />
         <Compile Include="Easy\Code69.cs" />
         <Compile Include="Easy\Code70.cs" />

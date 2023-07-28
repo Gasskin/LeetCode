@@ -6,8 +6,8 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code1160();
-            var res = code.CountCharacters(new []{"cat","bt","hat","tree"},"atach");
+            var code = new Code575();
+            var res = code.DistributeCandies(new []{6,6,6,6});
             Console.WriteLine(res);
         }
     }
