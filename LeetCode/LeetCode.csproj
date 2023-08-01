@@ -44,6 +44,7 @@
         <Compile Include="Easy\Code14.cs" />
         <Compile Include="Easy\Code1401.cs" />
         <Compile Include="Easy\Code1608.cs" />
+        <Compile Include="Easy\Code169.cs" />
         <Compile Include="Easy\Code20.cs" />
         <Compile Include="Easy\Code2078.cs" />
         <Compile Include="Easy\Code21.cs" />

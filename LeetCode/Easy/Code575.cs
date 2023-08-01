@@ -4,28 +4,19 @@ namespace LeetCode
 {
     public class Code575
     {
-        public int MajorityElement(int[] nums)
+        public int DistributeCandies(int[] candyType)
         {
-            var cur = -1;
-            var count = 0;
-            for (int i = 0; i < nums.Length; i++)
+            var hash = new HashSet<int>();
+            var sum = candyType.Length / 2;
+
+            for (int i = 0; i < candyType.Length; i++)
             {
-                if (count == 0)
-                {
-                    cur = nums[i];
-                }
-
-                if (cur == nums[i])
-                {
-                    count++;
-                }
-                else
-                {
-                    count--;
-                }
+                hash.Add(candyType[i]);
+                if (hash.Count > sum)
+                    return sum;
             }
-
-            return cur;
+            var len = hash.Count;
+            return sum > len ? len : sum;
         }
     }
 }
