@@ -6,9 +6,10 @@ namespace LeetCode
     {
         public static void Main(string[] args)
         {
-            var code = new Code169();
-            var res = code.MajorityElement(new []{3,1,2,1,2,2,3});
-            Console.WriteLine(res);
+            var code = new Code88_2();
+            // var res = code.Merge(new[] { 1, 2, 3, 0, 0, 0 }, 3, new[] { 2, 5, 6 }, 3);
+            // Console.WriteLine(res);
+            code.Merge(new[] { 1, 2, 3, 0, 0, 0 }, 3, new[] { 2, 5, 6 }, 3);
         }
     }
 }
