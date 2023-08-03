@@ -58,6 +58,7 @@
         <Compile Include="Easy\Code88.cs" />
         <Compile Include="Easy\Code88_2.cs" />
         <Compile Include="Easy\Code9.cs" />
+        <Compile Include="Easy\Code94.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
