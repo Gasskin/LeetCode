@@ -41,6 +41,7 @@
     <ItemGroup>
         <Compile Include="Easy\Code100.cs" />
         <Compile Include="Easy\Code101.cs" />
+        <Compile Include="Easy\Code104.cs" />
         <Compile Include="Easy\Code111.cs" />
         <Compile Include="Easy\Code1160.cs" />
         <Compile Include="Easy\Code121.cs" />
